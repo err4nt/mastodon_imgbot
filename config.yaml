@@ -1,0 +1,7 @@
+botname: your_bot_name 
+username: bot_username
+password: bot_password
+images: somedirectory/
+clientcred: clientcred.txt
+usercred: usercred.txt
+posttext: ["Image!", "Wow", "Such Images"]
